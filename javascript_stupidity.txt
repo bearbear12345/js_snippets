@@ -1,0 +1,6 @@
+Date:
+ALWAYS use "new Date()"
+Date() gives the current date
+Date("YYYY-MM-DD hh:mm:ss") gives the current date
+Date("1970-01-01 00:00:00") gives the current date.
+#Stupid
